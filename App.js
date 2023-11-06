@@ -80,7 +80,7 @@ export default function App() {
         body: JSON.stringify({
           to: "ExponentPushToken[xxxxxx]",
           title:"Test - sent from a device!",
-          body: "this is a test!"
+          body: "this is a test notification!"
         })
       });
   }
